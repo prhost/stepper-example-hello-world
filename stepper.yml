@@ -1,6 +1,6 @@
-name: hello_world
-version: 0.0.1
-description: Example hello world command shell
+name: "stepper/helloworld"
+version: "0.0.1"
+description: "Example hello world command shell"
 authors: 
   - 
     name: "Kallef"
