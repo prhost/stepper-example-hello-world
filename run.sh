@@ -1,1 +1,1 @@
-echo "hello world stepperman"
+echo "hello world stepperman" && export
