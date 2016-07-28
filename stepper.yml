@@ -1,6 +1,13 @@
 name: hello_world
 version: 0.0.1
 description: Example hello world command shell
+authors: 
+  - 
+    name: "Kallef"
+    email: "prhost@prhost.com.br"
+  - 
+    name: "Kallef"
+    email: "prhost@prhost.com.br"
 keywords:
   - example
   - hello world
